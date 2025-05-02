@@ -35,7 +35,6 @@ class MyApp extends StatelessWidget {
               padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
               child: Row(
                 children: [
-                  // Search Icon
                   const Icon(Icons.search, color: Colors.black54),
                   const SizedBox(width: 10),
                   const Expanded(
